@@ -1,0 +1,25 @@
+git - software
+github - service
+git :
+    1. version control system(track changes)
+    2. .git folder is used to keep history of all files
+    3. working dir -> git add -> staging area -> git commit -> Repo -> git push -> github
+    4. (git log || git log --oneline) is used to get details of commit
+    5. commit : Atomic commits(one work at a time)
+    6. (touch file_name) i
+    7. (git config --global core.editor "code --wait") //for opening vs code instead of vim(eg. commit command without message)
+    8. (cat .gitconfig) is used to find out my all configuration details in github
+
+
+
+
+
+commands:
+1.  git --version
+2.  git status
+3.  git init
+4.  git add .
+5.  git commit -m "fdkhkerhfev"
+6.  git push
+7.  git config --global user.name/email
+7.  git config --global core.editor "code --wait"
